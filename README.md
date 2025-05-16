@@ -31,8 +31,9 @@ This is a modern and interactive 3D developer portfolio built with React and Vit
 To run this project locally:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/Rodrigo-Batista-Filho/Rodrigo-Filho_Portifolio.git
+cd Rodrigo-Filho_Portifolio
 npm install
 npm run dev
+
 
